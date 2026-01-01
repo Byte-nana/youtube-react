@@ -1,0 +1,1286 @@
+{
+  "kind": "youtube#playlistItemListResponse",
+  "etag": "zA12jXZH9gyZ2jGKV8R3LI96awI",
+  "nextPageToken": "EAAaHlBUOkNCa2lFRVF6T1Rjek9UTkdNVGN3T0RRelJUVQ",
+  "items": [
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "sq9ayB2aXsAICQYbO9E6vBy7Q1g",
+      "id": "VVVfejZkMmhibHJHekxSVWNTcEhXTkJBLlZwVzFILXNCdnM4",
+      "snippet": {
+        "publishedAt": "2026-01-01T15:57:36Z",
+        "channelId": "UC_z6d2hblrGzLRUcSpHWNBA",
+        "title": "The Dog Dgaf 😭 He Eatting The Food🤭 (Cr/TT/toninxmc)",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/VpW1H-sBvs8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/VpW1H-sBvs8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/VpW1H-sBvs8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/VpW1H-sBvs8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/VpW1H-sBvs8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "dogsbeingfun",
+        "playlistId": "UU_z6d2hblrGzLRUcSpHWNBA",
+        "position": 0,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "VpW1H-sBvs8"
+        },
+        "videoOwnerChannelTitle": "dogsbeingfun",
+        "videoOwnerChannelId": "UC_z6d2hblrGzLRUcSpHWNBA"
+      },
+      "contentDetails": {
+        "videoId": "VpW1H-sBvs8",
+        "videoPublishedAt": "2026-01-01T15:57:36Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "FzI8RKv9YT49WJ4fDYY3fPcBISc",
+      "id": "VVVfejZkMmhibHJHekxSVWNTcEhXTkJBLkdUNnEyNEVyNXJN",
+      "snippet": {
+        "publishedAt": "2025-12-31T15:24:32Z",
+        "channelId": "UC_z6d2hblrGzLRUcSpHWNBA",
+        "title": "\"What if the world make a peace treaty…. mmm treats” (Cr/TT/postdfromsomewhere)",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/GT6q24Er5rM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/GT6q24Er5rM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/GT6q24Er5rM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/GT6q24Er5rM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/GT6q24Er5rM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "dogsbeingfun",
+        "playlistId": "UU_z6d2hblrGzLRUcSpHWNBA",
+        "position": 1,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "GT6q24Er5rM"
+        },
+        "videoOwnerChannelTitle": "dogsbeingfun",
+        "videoOwnerChannelId": "UC_z6d2hblrGzLRUcSpHWNBA"
+      },
+      "contentDetails": {
+        "videoId": "GT6q24Er5rM",
+        "videoPublishedAt": "2025-12-31T15:24:32Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "cuxypJZbyhuDr94VK41uFEAJBnM",
+      "id": "VVVfejZkMmhibHJHekxSVWNTcEhXTkJBLnl4anF2a3V0ai1j",
+      "snippet": {
+        "publishedAt": "2025-12-30T15:16:18Z",
+        "channelId": "UC_z6d2hblrGzLRUcSpHWNBA",
+        "title": "“So if the earth is a ball… ball?” (Cr/TT/noramantheeb)",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/yxjqvkutj-c/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/yxjqvkutj-c/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/yxjqvkutj-c/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/yxjqvkutj-c/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/yxjqvkutj-c/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "dogsbeingfun",
+        "playlistId": "UU_z6d2hblrGzLRUcSpHWNBA",
+        "position": 2,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "yxjqvkutj-c"
+        },
+        "videoOwnerChannelTitle": "dogsbeingfun",
+        "videoOwnerChannelId": "UC_z6d2hblrGzLRUcSpHWNBA"
+      },
+      "contentDetails": {
+        "videoId": "yxjqvkutj-c",
+        "videoPublishedAt": "2025-12-30T15:16:18Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "NInL-PNsXLNldw_DiVVCGyjMY6Y",
+      "id": "VVVfejZkMmhibHJHekxSVWNTcEhXTkJBLlhNeU1oU191cTBj",
+      "snippet": {
+        "publishedAt": "2025-12-29T16:48:08Z",
+        "channelId": "UC_z6d2hblrGzLRUcSpHWNBA",
+        "title": "How does it feel to be Gods favorite?? (Cr/TT/fatherofseynour)",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/XMyMhS_uq0c/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/XMyMhS_uq0c/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/XMyMhS_uq0c/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/XMyMhS_uq0c/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/XMyMhS_uq0c/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "dogsbeingfun",
+        "playlistId": "UU_z6d2hblrGzLRUcSpHWNBA",
+        "position": 3,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "XMyMhS_uq0c"
+        },
+        "videoOwnerChannelTitle": "dogsbeingfun",
+        "videoOwnerChannelId": "UC_z6d2hblrGzLRUcSpHWNBA"
+      },
+      "contentDetails": {
+        "videoId": "XMyMhS_uq0c",
+        "videoPublishedAt": "2025-12-29T16:48:08Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "DwMI0WK__ZtdW0T500Bb4rgk1FU",
+      "id": "VVVfejZkMmhibHJHekxSVWNTcEhXTkJBLm9JRURPUDVHVWhr",
+      "snippet": {
+        "publishedAt": "2025-12-28T12:04:43Z",
+        "channelId": "UC_z6d2hblrGzLRUcSpHWNBA",
+        "title": "It’s the foot gearing up for me 🤣",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/oIEDOP5GUhk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/oIEDOP5GUhk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/oIEDOP5GUhk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/oIEDOP5GUhk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/oIEDOP5GUhk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "dogsbeingfun",
+        "playlistId": "UU_z6d2hblrGzLRUcSpHWNBA",
+        "position": 4,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "oIEDOP5GUhk"
+        },
+        "videoOwnerChannelTitle": "dogsbeingfun",
+        "videoOwnerChannelId": "UC_z6d2hblrGzLRUcSpHWNBA"
+      },
+      "contentDetails": {
+        "videoId": "oIEDOP5GUhk",
+        "videoPublishedAt": "2025-12-28T12:04:43Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "N3fmqdl49HNZul6wEb2HsrxLTSM",
+      "id": "VVVfejZkMmhibHJHekxSVWNTcEhXTkJBLkpCUHo2eVM4TlQ0",
+      "snippet": {
+        "publishedAt": "2025-12-27T11:36:06Z",
+        "channelId": "UC_z6d2hblrGzLRUcSpHWNBA",
+        "title": "Dogs opening presents is the cutest thing ever 🥺 (Cr/TT/nik_elll)",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/JBPz6yS8NT4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/JBPz6yS8NT4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/JBPz6yS8NT4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/JBPz6yS8NT4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/JBPz6yS8NT4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "dogsbeingfun",
+        "playlistId": "UU_z6d2hblrGzLRUcSpHWNBA",
+        "position": 5,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "JBPz6yS8NT4"
+        },
+        "videoOwnerChannelTitle": "dogsbeingfun",
+        "videoOwnerChannelId": "UC_z6d2hblrGzLRUcSpHWNBA"
+      },
+      "contentDetails": {
+        "videoId": "JBPz6yS8NT4",
+        "videoPublishedAt": "2025-12-27T11:36:06Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "VxFhSa1t9m4gkr2Qe2kxsu_W0TY",
+      "id": "VVVfejZkMmhibHJHekxSVWNTcEhXTkJBLmFuUXdqajZaeGlJ",
+      "snippet": {
+        "publishedAt": "2025-12-26T20:45:35Z",
+        "channelId": "UC_z6d2hblrGzLRUcSpHWNBA",
+        "title": "Okay she genuinely looked sad 😭 (Cr/TT/jessicalutzracemom)",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/anQwjj6ZxiI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/anQwjj6ZxiI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/anQwjj6ZxiI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/anQwjj6ZxiI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/anQwjj6ZxiI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "dogsbeingfun",
+        "playlistId": "UU_z6d2hblrGzLRUcSpHWNBA",
+        "position": 6,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "anQwjj6ZxiI"
+        },
+        "videoOwnerChannelTitle": "dogsbeingfun",
+        "videoOwnerChannelId": "UC_z6d2hblrGzLRUcSpHWNBA"
+      },
+      "contentDetails": {
+        "videoId": "anQwjj6ZxiI",
+        "videoPublishedAt": "2025-12-26T20:45:35Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "L0B2PdOHcVwK-hko087FfpgEdi8",
+      "id": "VVVfejZkMmhibHJHekxSVWNTcEhXTkJBLkdscnVQSEtkVExv",
+      "snippet": {
+        "publishedAt": "2025-12-25T19:59:23Z",
+        "channelId": "UC_z6d2hblrGzLRUcSpHWNBA",
+        "title": "He needed to stretch that one out 😂 (Cr/TT/newenglandmomma)",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/GlruPHKdTLo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/GlruPHKdTLo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/GlruPHKdTLo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/GlruPHKdTLo/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/GlruPHKdTLo/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "dogsbeingfun",
+        "playlistId": "UU_z6d2hblrGzLRUcSpHWNBA",
+        "position": 7,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "GlruPHKdTLo"
+        },
+        "videoOwnerChannelTitle": "dogsbeingfun",
+        "videoOwnerChannelId": "UC_z6d2hblrGzLRUcSpHWNBA"
+      },
+      "contentDetails": {
+        "videoId": "GlruPHKdTLo",
+        "videoPublishedAt": "2025-12-25T19:59:23Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "Ox0G4w8WI2kYgaHbFZdd1RPl62A",
+      "id": "VVVfejZkMmhibHJHekxSVWNTcEhXTkJBLlJ1Rnk2dmFBZDRZ",
+      "snippet": {
+        "publishedAt": "2025-12-25T01:02:21Z",
+        "channelId": "UC_z6d2hblrGzLRUcSpHWNBA",
+        "title": "That dog will NEVER trust those stairs again 💀😭 (Mail us for credit or Removal)",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/RuFy6vaAd4Y/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/RuFy6vaAd4Y/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/RuFy6vaAd4Y/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/RuFy6vaAd4Y/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/RuFy6vaAd4Y/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "dogsbeingfun",
+        "playlistId": "UU_z6d2hblrGzLRUcSpHWNBA",
+        "position": 8,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "RuFy6vaAd4Y"
+        },
+        "videoOwnerChannelTitle": "dogsbeingfun",
+        "videoOwnerChannelId": "UC_z6d2hblrGzLRUcSpHWNBA"
+      },
+      "contentDetails": {
+        "videoId": "RuFy6vaAd4Y",
+        "videoPublishedAt": "2025-12-25T01:02:21Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "0eiphfE5jTjWxv_ad2Ii2A8Ye6k",
+      "id": "VVVfejZkMmhibHJHekxSVWNTcEhXTkJBLmNpb0U0OEJIWUE0",
+      "snippet": {
+        "publishedAt": "2025-12-23T13:50:46Z",
+        "channelId": "UC_z6d2hblrGzLRUcSpHWNBA",
+        "title": "He's so cute 🥺 (Cr/TT/peneelopethebulldog)",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/cioE48BHYA4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/cioE48BHYA4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/cioE48BHYA4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/cioE48BHYA4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/cioE48BHYA4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "dogsbeingfun",
+        "playlistId": "UU_z6d2hblrGzLRUcSpHWNBA",
+        "position": 9,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "cioE48BHYA4"
+        },
+        "videoOwnerChannelTitle": "dogsbeingfun",
+        "videoOwnerChannelId": "UC_z6d2hblrGzLRUcSpHWNBA"
+      },
+      "contentDetails": {
+        "videoId": "cioE48BHYA4",
+        "videoPublishedAt": "2025-12-23T13:50:46Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "HB1ldpaYnxhDjmoIP0GzYplELCw",
+      "id": "VVVfejZkMmhibHJHekxSVWNTcEhXTkJBLkJPSWxDY3lXMk1j",
+      "snippet": {
+        "publishedAt": "2025-12-22T19:01:05Z",
+        "channelId": "UC_z6d2hblrGzLRUcSpHWNBA",
+        "title": "She looks like a toddler that just cut their own hair (Cr/TT/good55931)",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/BOIlCcyW2Mc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/BOIlCcyW2Mc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/BOIlCcyW2Mc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/BOIlCcyW2Mc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/BOIlCcyW2Mc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "dogsbeingfun",
+        "playlistId": "UU_z6d2hblrGzLRUcSpHWNBA",
+        "position": 10,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "BOIlCcyW2Mc"
+        },
+        "videoOwnerChannelTitle": "dogsbeingfun",
+        "videoOwnerChannelId": "UC_z6d2hblrGzLRUcSpHWNBA"
+      },
+      "contentDetails": {
+        "videoId": "BOIlCcyW2Mc",
+        "videoPublishedAt": "2025-12-22T19:01:05Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "Mad9d6GeNyXprkjjEUhUh8jIdbs",
+      "id": "VVVfejZkMmhibHJHekxSVWNTcEhXTkJBLkd6TUFwdTFJM0Iw",
+      "snippet": {
+        "publishedAt": "2025-12-20T18:35:35Z",
+        "channelId": "UC_z6d2hblrGzLRUcSpHWNBA",
+        "title": "Does he know there are other options?😭 (Cr/TT/seer_247)",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/GzMApu1I3B0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/GzMApu1I3B0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/GzMApu1I3B0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/GzMApu1I3B0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/GzMApu1I3B0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "dogsbeingfun",
+        "playlistId": "UU_z6d2hblrGzLRUcSpHWNBA",
+        "position": 11,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "GzMApu1I3B0"
+        },
+        "videoOwnerChannelTitle": "dogsbeingfun",
+        "videoOwnerChannelId": "UC_z6d2hblrGzLRUcSpHWNBA"
+      },
+      "contentDetails": {
+        "videoId": "GzMApu1I3B0",
+        "videoPublishedAt": "2025-12-20T18:35:35Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "pjaqJLoG08y-seeBaWqiAiiDjHI",
+      "id": "VVVfejZkMmhibHJHekxSVWNTcEhXTkJBLnFyYUktdlBTUHI4",
+      "snippet": {
+        "publishedAt": "2025-12-19T18:54:18Z",
+        "channelId": "UC_z6d2hblrGzLRUcSpHWNBA",
+        "title": "That baby got her a bodyguard for life 🥺 (Cr/TT/janeelle.golZ)",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/qraI-vPSPr8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/qraI-vPSPr8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/qraI-vPSPr8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/qraI-vPSPr8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/qraI-vPSPr8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "dogsbeingfun",
+        "playlistId": "UU_z6d2hblrGzLRUcSpHWNBA",
+        "position": 12,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "qraI-vPSPr8"
+        },
+        "videoOwnerChannelTitle": "dogsbeingfun",
+        "videoOwnerChannelId": "UC_z6d2hblrGzLRUcSpHWNBA"
+      },
+      "contentDetails": {
+        "videoId": "qraI-vPSPr8",
+        "videoPublishedAt": "2025-12-19T18:54:18Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "19jTeWQfUGDw51UFszN7VHuTEz4",
+      "id": "VVVfejZkMmhibHJHekxSVWNTcEhXTkJBLjFrdkxkYVZ2dXRr",
+      "snippet": {
+        "publishedAt": "2025-12-18T16:27:05Z",
+        "channelId": "UC_z6d2hblrGzLRUcSpHWNBA",
+        "title": "He’s so PROUD give him a PAT PAT RN (Cr/TT/spy_v13)",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/1kvLdaVvutk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/1kvLdaVvutk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/1kvLdaVvutk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/1kvLdaVvutk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/1kvLdaVvutk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "dogsbeingfun",
+        "playlistId": "UU_z6d2hblrGzLRUcSpHWNBA",
+        "position": 13,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "1kvLdaVvutk"
+        },
+        "videoOwnerChannelTitle": "dogsbeingfun",
+        "videoOwnerChannelId": "UC_z6d2hblrGzLRUcSpHWNBA"
+      },
+      "contentDetails": {
+        "videoId": "1kvLdaVvutk",
+        "videoPublishedAt": "2025-12-18T16:27:05Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "04uveRonajIWKAwcH7ZcYLMca10",
+      "id": "VVVfejZkMmhibHJHekxSVWNTcEhXTkJBLkgtaVFTRFZjQkFV",
+      "snippet": {
+        "publishedAt": "2025-12-17T18:32:55Z",
+        "channelId": "UC_z6d2hblrGzLRUcSpHWNBA",
+        "title": "Bro got caught red handed 😭",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/H-iQSDVcBAU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/H-iQSDVcBAU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/H-iQSDVcBAU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/H-iQSDVcBAU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/H-iQSDVcBAU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "dogsbeingfun",
+        "playlistId": "UU_z6d2hblrGzLRUcSpHWNBA",
+        "position": 14,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "H-iQSDVcBAU"
+        },
+        "videoOwnerChannelTitle": "dogsbeingfun",
+        "videoOwnerChannelId": "UC_z6d2hblrGzLRUcSpHWNBA"
+      },
+      "contentDetails": {
+        "videoId": "H-iQSDVcBAU",
+        "videoPublishedAt": "2025-12-17T18:32:55Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "TpmAyV5Jf9nH-pgXOvd9SzzLB7Q",
+      "id": "VVVfejZkMmhibHJHekxSVWNTcEhXTkJBLjJ4N2hsQlRpQXRv",
+      "snippet": {
+        "publishedAt": "2025-12-16T16:10:11Z",
+        "channelId": "UC_z6d2hblrGzLRUcSpHWNBA",
+        "title": "Mind you he can leave the bed (Cr/TT/setsby.juju)",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/2x7hlBTiAto/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/2x7hlBTiAto/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/2x7hlBTiAto/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/2x7hlBTiAto/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/2x7hlBTiAto/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "dogsbeingfun",
+        "playlistId": "UU_z6d2hblrGzLRUcSpHWNBA",
+        "position": 15,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "2x7hlBTiAto"
+        },
+        "videoOwnerChannelTitle": "dogsbeingfun",
+        "videoOwnerChannelId": "UC_z6d2hblrGzLRUcSpHWNBA"
+      },
+      "contentDetails": {
+        "videoId": "2x7hlBTiAto",
+        "videoPublishedAt": "2025-12-16T16:10:11Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "XDXbhDjrugoU7uXzvDSncqhkVMs",
+      "id": "VVVfejZkMmhibHJHekxSVWNTcEhXTkJBLlpjMmFJSGhwQlJF",
+      "snippet": {
+        "publishedAt": "2025-12-15T16:44:50Z",
+        "channelId": "UC_z6d2hblrGzLRUcSpHWNBA",
+        "title": "Her taking the kid out in the end 😂😂 (Cr/TT/jaidenlanz)",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Zc2aIHhpBRE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Zc2aIHhpBRE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Zc2aIHhpBRE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Zc2aIHhpBRE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Zc2aIHhpBRE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "dogsbeingfun",
+        "playlistId": "UU_z6d2hblrGzLRUcSpHWNBA",
+        "position": 16,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "Zc2aIHhpBRE"
+        },
+        "videoOwnerChannelTitle": "dogsbeingfun",
+        "videoOwnerChannelId": "UC_z6d2hblrGzLRUcSpHWNBA"
+      },
+      "contentDetails": {
+        "videoId": "Zc2aIHhpBRE",
+        "videoPublishedAt": "2025-12-15T16:44:50Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "P9AF1Y7J6Cbu3stWWdSj9eDTHJU",
+      "id": "VVVfejZkMmhibHJHekxSVWNTcEhXTkJBLlBKdWxyN3NhUGgw",
+      "snippet": {
+        "publishedAt": "2025-12-14T17:00:24Z",
+        "channelId": "UC_z6d2hblrGzLRUcSpHWNBA",
+        "title": "He just know his dad will never hurt him 🥹❤️(Cr/TT/doggo_di_como)",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/PJulr7saPh0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/PJulr7saPh0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/PJulr7saPh0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/PJulr7saPh0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/PJulr7saPh0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "dogsbeingfun",
+        "playlistId": "UU_z6d2hblrGzLRUcSpHWNBA",
+        "position": 17,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "PJulr7saPh0"
+        },
+        "videoOwnerChannelTitle": "dogsbeingfun",
+        "videoOwnerChannelId": "UC_z6d2hblrGzLRUcSpHWNBA"
+      },
+      "contentDetails": {
+        "videoId": "PJulr7saPh0",
+        "videoPublishedAt": "2025-12-14T17:00:24Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "gLQVex_Nljc1OB5-A4vLyxhH7xE",
+      "id": "VVVfejZkMmhibHJHekxSVWNTcEhXTkJBLkdoZUFBb0Jvenhj",
+      "snippet": {
+        "publishedAt": "2025-12-13T14:47:51Z",
+        "channelId": "UC_z6d2hblrGzLRUcSpHWNBA",
+        "title": "I blinked and bro was in active combat (Cr/TT/kylothemaniacdog1)",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/GheAAoBozxc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/GheAAoBozxc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/GheAAoBozxc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/GheAAoBozxc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/GheAAoBozxc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "dogsbeingfun",
+        "playlistId": "UU_z6d2hblrGzLRUcSpHWNBA",
+        "position": 18,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "GheAAoBozxc"
+        },
+        "videoOwnerChannelTitle": "dogsbeingfun",
+        "videoOwnerChannelId": "UC_z6d2hblrGzLRUcSpHWNBA"
+      },
+      "contentDetails": {
+        "videoId": "GheAAoBozxc",
+        "videoPublishedAt": "2025-12-13T14:47:51Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "jwRqAxPIgpiC2wkNkYaP19l1GBQ",
+      "id": "VVVfejZkMmhibHJHekxSVWNTcEhXTkJBLkpGVEJlQkJQWE9v",
+      "snippet": {
+        "publishedAt": "2025-12-12T15:06:10Z",
+        "channelId": "UC_z6d2hblrGzLRUcSpHWNBA",
+        "title": "I said bring him closer 😂😂 (Cr/TT/tianalawrence6)",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/JFTBeBBPXOo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/JFTBeBBPXOo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/JFTBeBBPXOo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/JFTBeBBPXOo/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/JFTBeBBPXOo/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "dogsbeingfun",
+        "playlistId": "UU_z6d2hblrGzLRUcSpHWNBA",
+        "position": 19,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "JFTBeBBPXOo"
+        },
+        "videoOwnerChannelTitle": "dogsbeingfun",
+        "videoOwnerChannelId": "UC_z6d2hblrGzLRUcSpHWNBA"
+      },
+      "contentDetails": {
+        "videoId": "JFTBeBBPXOo",
+        "videoPublishedAt": "2025-12-12T15:06:10Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "tiIaSCR1j0uPshGXF25lFeKTyDw",
+      "id": "VVVfejZkMmhibHJHekxSVWNTcEhXTkJBLmR1VlAyU0xnQWRV",
+      "snippet": {
+        "publishedAt": "2025-12-11T14:02:02Z",
+        "channelId": "UC_z6d2hblrGzLRUcSpHWNBA",
+        "title": "Ahhh good old Twitcher. One of Santa’s retired reinder (Cr/TT/remingtonthepharaohhound)",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/duVP2SLgAdU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/duVP2SLgAdU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/duVP2SLgAdU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/duVP2SLgAdU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/duVP2SLgAdU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "dogsbeingfun",
+        "playlistId": "UU_z6d2hblrGzLRUcSpHWNBA",
+        "position": 20,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "duVP2SLgAdU"
+        },
+        "videoOwnerChannelTitle": "dogsbeingfun",
+        "videoOwnerChannelId": "UC_z6d2hblrGzLRUcSpHWNBA"
+      },
+      "contentDetails": {
+        "videoId": "duVP2SLgAdU",
+        "videoPublishedAt": "2025-12-11T14:02:02Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "K1RMXpBuowuhe3kbD3tggBg6H1c",
+      "id": "VVVfejZkMmhibHJHekxSVWNTcEhXTkJBLktGNEY0MF9DVmkw",
+      "snippet": {
+        "publishedAt": "2025-12-08T12:45:48Z",
+        "channelId": "UC_z6d2hblrGzLRUcSpHWNBA",
+        "title": "God gives his toughest battles to his strongest soldiers😂 (Cr/TT/goldengemgirl)",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/KF4F40_CVi0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/KF4F40_CVi0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/KF4F40_CVi0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/KF4F40_CVi0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/KF4F40_CVi0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "dogsbeingfun",
+        "playlistId": "UU_z6d2hblrGzLRUcSpHWNBA",
+        "position": 21,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "KF4F40_CVi0"
+        },
+        "videoOwnerChannelTitle": "dogsbeingfun",
+        "videoOwnerChannelId": "UC_z6d2hblrGzLRUcSpHWNBA"
+      },
+      "contentDetails": {
+        "videoId": "KF4F40_CVi0",
+        "videoPublishedAt": "2025-12-08T12:45:48Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "iVX71Fi_p36_bkvhPr5T1jS5QWc",
+      "id": "VVVfejZkMmhibHJHekxSVWNTcEhXTkJBLkU2dmdFY1VVd2RZ",
+      "snippet": {
+        "publishedAt": "2025-12-07T18:37:07Z",
+        "channelId": "UC_z6d2hblrGzLRUcSpHWNBA",
+        "title": "They are already best friends wait til he’s 100 pounds 😂 (Cr/TT/myrandaheart)",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/E6vgEcUUwdY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/E6vgEcUUwdY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/E6vgEcUUwdY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/E6vgEcUUwdY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/E6vgEcUUwdY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "dogsbeingfun",
+        "playlistId": "UU_z6d2hblrGzLRUcSpHWNBA",
+        "position": 22,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "E6vgEcUUwdY"
+        },
+        "videoOwnerChannelTitle": "dogsbeingfun",
+        "videoOwnerChannelId": "UC_z6d2hblrGzLRUcSpHWNBA"
+      },
+      "contentDetails": {
+        "videoId": "E6vgEcUUwdY",
+        "videoPublishedAt": "2025-12-07T18:37:07Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "znAZat-CC_a4tgUZfkzVIZFQJXI",
+      "id": "VVVfejZkMmhibHJHekxSVWNTcEhXTkJBLl9PMXVpN2tOeWpJ",
+      "snippet": {
+        "publishedAt": "2025-12-06T14:36:23Z",
+        "channelId": "UC_z6d2hblrGzLRUcSpHWNBA",
+        "title": "When you r on the floor that’s their territory 😂😂 (Cr/TT/goosethegolden40)",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/_O1ui7kNyjI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/_O1ui7kNyjI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/_O1ui7kNyjI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/_O1ui7kNyjI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/_O1ui7kNyjI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "dogsbeingfun",
+        "playlistId": "UU_z6d2hblrGzLRUcSpHWNBA",
+        "position": 23,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "_O1ui7kNyjI"
+        },
+        "videoOwnerChannelTitle": "dogsbeingfun",
+        "videoOwnerChannelId": "UC_z6d2hblrGzLRUcSpHWNBA"
+      },
+      "contentDetails": {
+        "videoId": "_O1ui7kNyjI",
+        "videoPublishedAt": "2025-12-06T14:36:23Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "ptPwbFF9ooiXN9gdnDAaTJDxT6Y",
+      "id": "VVVfejZkMmhibHJHekxSVWNTcEhXTkJBLnBhclNlejlERDE0",
+      "snippet": {
+        "publishedAt": "2025-12-05T16:29:06Z",
+        "channelId": "UC_z6d2hblrGzLRUcSpHWNBA",
+        "title": "HE FIENING FOR A FIGHTTTT (Cr/TT/vinnyboo20)",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/parSez9DD14/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/parSez9DD14/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/parSez9DD14/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/parSez9DD14/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/parSez9DD14/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "dogsbeingfun",
+        "playlistId": "UU_z6d2hblrGzLRUcSpHWNBA",
+        "position": 24,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "parSez9DD14"
+        },
+        "videoOwnerChannelTitle": "dogsbeingfun",
+        "videoOwnerChannelId": "UC_z6d2hblrGzLRUcSpHWNBA"
+      },
+      "contentDetails": {
+        "videoId": "parSez9DD14",
+        "videoPublishedAt": "2025-12-05T16:29:06Z"
+      }
+    }
+  ],
+  "pageInfo": {
+    "totalResults": 164,
+    "resultsPerPage": 25
+  }
+}
