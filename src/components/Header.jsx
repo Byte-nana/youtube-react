@@ -1,13 +1,22 @@
-import React, { useState } from 'react';
+import React, { useEffect, useState } from 'react';
 import NanaTubeIcon from '../icons/NanaTubeIcon';
 import { LuSearch } from 'react-icons/lu';
+import { useNavigate, useParams } from 'react-router';
 
 export default function Header() {
   const [text, setText] = useState('');
+  const navigate = useNavigate();
+  const { keyword } = useParams();
 
   const handleSubmit = (e) => {
     e.preventDefault();
+    navigate(`/videos/${text}`);
   };
+
+  useEffect(() => {
+    setText(keyword || '');
+  }, [keyword]);
+
   return (
     <header>
       <div>
