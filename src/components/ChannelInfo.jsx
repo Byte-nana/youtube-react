@@ -24,8 +24,12 @@ export default function ChannelInfo({ name, id }) {
       {channel && (
         <>
           <img src={channel.snippet.thumbnails.default.url} alt={name} />
-          <p>{name}</p>
-          <p>{viewCountFormatter.format(channel.statistics.subscriberCount)}</p>
+          <div>
+            <p>{name}</p>
+            <p>
+              {viewCountFormatter.format(channel.statistics.subscriberCount)}
+            </p>
+          </div>
         </>
       )}
     </div>
