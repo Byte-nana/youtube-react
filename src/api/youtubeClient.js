@@ -19,4 +19,8 @@ export default class YoutubeClient {
   async channel(params) {
     return this.httpClient.get('channels', params);
   }
+
+  async playlist(params) {
+    return this.httpClient.get('playlistItems', params);
+  }
 }

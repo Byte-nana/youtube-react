@@ -17,6 +17,21 @@ export default class Youtube {
       })
       .then((res) => res.data.items[0]);
   }
+
+  async getChannelVideos(channelId) {
+    const playlistId = await this.apiClient
+      .channel({
+        params: { part: 'contentDetails', id: channelId },
+      })
+      .then((res) => res.data.items[0].contentDetails.relatedPlaylists.uploads);
+
+    return this.apiClient
+      .playlist({
+        params: { part: 'snippet,contentDetails', playlistId, maxResults: 25 },
+      })
+      .then((res) => res.data.items);
+  }
+
   async #searchByKeyword(keyword) {
     return this.apiClient
       .search({
