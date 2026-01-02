@@ -33,6 +33,29 @@ export default class Youtube {
   }
 
   async #searchByKeyword(keyword) {
+    // 1. get Video id
+    const searchItems = await this.#getSearchRes(keyword);
+    const videoIds = searchItems.map((item) => item.id).join(',');
+
+    // 2. get statistics Data
+    const statsRes = await this.apiClient.statistics({
+      part: 'statistics',
+      id: videoIds,
+    });
+    const statsItems = statsRes.data.items;
+
+    // 3. Link id with data
+    const statsMap = new Map(
+      statsItems.map((item) => [item.id, item.statistics])
+    );
+
+    return searchItems.map((item) => ({
+      ...item,
+      statistics: statsMap.get(item.id),
+    }));
+  }
+
+  async #getSearchRes(keyword) {
     return this.apiClient
       .search({
         params: {
@@ -44,7 +67,12 @@ export default class Youtube {
         },
       })
       .then((res) => res.data.items)
-      .then((items) => items.map((item) => ({ ...item, id: item.id.videoId })));
+      .then((items) =>
+        items.map((item) => ({
+          ...item,
+          id: item.id.videoId,
+        }))
+      );
   }
 
   async #getMostPopular() {
