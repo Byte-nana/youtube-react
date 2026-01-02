@@ -1,12 +1,12 @@
 import React, { useEffect, useState } from 'react';
 import NanaTubeIcon from '../icons/NanaTubeIcon';
 import { LuSearch } from 'react-icons/lu';
-import { useNavigate, useParams } from 'react-router';
+import { Link, useNavigate, useParams } from 'react-router';
 
 export default function Header() {
   const [text, setText] = useState('');
-  const navigate = useNavigate();
   const { keyword } = useParams();
+  const navigate = useNavigate();
 
   const handleSubmit = (e) => {
     e.preventDefault();
@@ -19,10 +19,10 @@ export default function Header() {
 
   return (
     <header>
-      <div>
+      <Link to='/'>
         <NanaTubeIcon />
         <h1>NanaTube</h1>
-      </div>
+      </Link>
       <form onSubmit={handleSubmit}>
         <input
           type='text'
