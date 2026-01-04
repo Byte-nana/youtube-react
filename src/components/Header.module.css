@@ -1,0 +1,54 @@
+.header {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 1rem;
+}
+
+.logoBox {
+  display: flex;
+  align-items: center;
+  gap: 0.2rem;
+}
+
+.logoText {
+  font-size: 2rem;
+}
+
+.searchForm {
+  width: 50%;
+  height: 2.5rem;
+  display: flex;
+  align-items: center;
+  border-radius: 1rem;
+  outline: none;
+}
+
+.formText {
+  flex: 1 1 100%;
+  height: 100%;
+  padding: 0.5rem;
+  border: 2px solid var(--color-gray);
+  border-radius: 1rem 0 0 1rem;
+  color: var(--color-text);
+  font-size: 1.2rem;
+}
+.formText:focus-visible {
+  border: 2px solid var(--color-brand);
+}
+
+.formButton {
+  height: 100%;
+  padding: 0.5rem;
+  background-color: var(--color-accent);
+  border: 2px solid var(--color-gray);
+  border-left: none;
+  border-radius: 0 1rem 1rem 0;
+  font-size: 1.2rem;
+}
+
+.avatar {
+  width: 32px;
+  border-radius: 50%;
+}

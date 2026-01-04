@@ -24,7 +24,7 @@ export default function NanaTubeIcon({
         height='160'
         rx='44'
         fill={bgColor}
-        stroke={strokeColor}
+        stroke={bgColor}
         strokeWidth='8'
       />
       <g transform='translate(130 105) scale(1.5)'>

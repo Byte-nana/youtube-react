@@ -2,6 +2,7 @@ import React, { useEffect, useState } from 'react';
 import NanaTubeIcon from '../icons/NanaTubeIcon';
 import { LuSearch } from 'react-icons/lu';
 import { Link, useNavigate, useParams } from 'react-router';
+import styles from './Header.module.css';
 
 export default function Header() {
   const [text, setText] = useState('');
@@ -18,22 +19,30 @@ export default function Header() {
   }, [keyword]);
 
   return (
-    <header>
-      <Link to='/'>
-        <NanaTubeIcon />
-        <h1>NanaTube</h1>
+    <header className={styles.header}>
+      <Link to='/' className={styles.logoBox}>
+        <NanaTubeIcon width={44} bgColor='#b30103' strokeColor='#f5f4f2' />
+        <h1 className={styles.logoText}>NanaTube</h1>
       </Link>
-      <form onSubmit={handleSubmit}>
+      <form className={styles.searchForm} onSubmit={handleSubmit}>
         <input
+          className={styles.formText}
           type='text'
           value={text}
           placeholder='Search...'
           onChange={(e) => setText(e.target.value)}
         />
-        <button type='submit'>
+        <button className={styles.formButton} type='submit'>
           <LuSearch />
         </button>
       </form>
+      <a href='https://github.com/Byte-nana/' target='_blank'>
+        <img
+          className={styles.avatar}
+          src='./img/avatar.png'
+          alt='profile avatar'
+        />
+      </a>
     </header>
   );
 }
