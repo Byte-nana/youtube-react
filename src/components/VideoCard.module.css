@@ -27,6 +27,10 @@
 
 .title {
   font-size: 1.1rem;
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
 }
 
 .text {
@@ -41,5 +45,15 @@
 
 .wrapper p + p::before {
   content: '·';
+  margin-right: 0.5rem;
+}
+
+/* channel */
+.channel.cardContainer {
+  display: flex;
+}
+
+.channel.thumbnails {
+  width: 45%;
   margin-right: 0.5rem;
 }

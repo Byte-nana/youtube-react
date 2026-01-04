@@ -6,7 +6,7 @@ import styles from './VideoCard.module.css';
 import useChannelInfo from '../hooks/use-channelInfo.jsx';
 import Avatar from './ui/Avatar.jsx';
 
-export default function VideoCard({ video }) {
+export default function VideoCard({ video, variant = 'default' }) {
   const { thumbnails, title, channelTitle, channelId, publishedAt } =
     video.snippet;
   const navigate = useNavigate();
@@ -17,14 +17,17 @@ export default function VideoCard({ video }) {
   };
 
   return (
-    <section className={styles.cardContainer} onClick={handleClick}>
+    <section
+      className={`${styles.cardContainer} ${styles[variant]}`}
+      onClick={handleClick}
+    >
       <img
-        className={styles.thumbnails}
+        className={`${styles.thumbnails} ${styles[variant]}`}
         src={thumbnails.medium.url}
         alt={title}
       />
       <div className={styles.desContainer}>
-        {channel && (
+        {channel && variant !== 'channel' && (
           <Avatar
             url={channel.snippet.thumbnails.default.url}
             name={channelTitle}
