@@ -1,11 +1,10 @@
 import React from 'react';
 import { useNavigate } from 'react-router';
-import ChannelInfo from './ChannelInfo.jsx';
 import dateFormatter from '../util/dateFormatter';
 import viewCountformatter from '../util/viewCountFormatter';
 import styles from './VideoCard.module.css';
 import useChannelInfo from '../hooks/use-channelInfo.jsx';
-import ChannelAvatar from './ui/ChannelAvatar.jsx';
+import Avatar from './ui/Avatar.jsx';
 
 export default function VideoCard({ video }) {
   const { thumbnails, title, channelTitle, channelId, publishedAt } =
@@ -26,7 +25,7 @@ export default function VideoCard({ video }) {
       />
       <div className={styles.desContainer}>
         {channel && (
-          <ChannelAvatar
+          <Avatar
             url={channel.snippet.thumbnails.default.url}
             name={channelTitle}
           />

@@ -3,6 +3,7 @@ import NanaTubeIcon from '../icons/NanaTubeIcon';
 import { LuSearch } from 'react-icons/lu';
 import { Link, useNavigate, useParams } from 'react-router';
 import styles from './Header.module.css';
+import Avatar from './ui/Avatar';
 
 export default function Header() {
   const [text, setText] = useState('');
@@ -40,11 +41,7 @@ export default function Header() {
         </button>
       </form>
       <a href='https://github.com/Byte-nana/' target='_blank'>
-        <img
-          className={styles.avatar}
-          src='./img/avatar.png'
-          alt='profile avatar'
-        />
+        <Avatar url={'/img/profile.png'} name={'profile avatar'} />
       </a>
     </header>
   );

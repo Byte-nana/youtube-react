@@ -1,16 +1,15 @@
 .cardContainer {
-  position: relative;
   padding: 1rem;
   border-radius: 1.5rem;
   background-color: transparent;
   cursor: pointer;
   transition: all 300ms ease-in;
 }
-.container:hover {
+.cardContainer:hover {
   background-color: var(--color-accent);
   border-radius: 1rem;
 }
-.container:hover .thumbnails {
+.cardContainer:hover .thumbnails {
   border-radius: 0;
 }
 

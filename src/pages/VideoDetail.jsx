@@ -2,6 +2,7 @@ import React from 'react';
 import { useLocation } from 'react-router';
 import ChannelInfo from '../components/ChannelInfo.jsx';
 import ChannelVideos from '../components/ChannelVideos.jsx';
+import styles from './VideoDetail.module.css';
 
 export default function VideoDetail() {
   const {
@@ -11,20 +12,19 @@ export default function VideoDetail() {
   const { title, channelTitle, channelId, description } = video.snippet;
 
   return (
-    <section>
-      <article>
+    <section className={styles.container}>
+      <article className={styles.playerContainer}>
         <iframe
+          className={styles.player}
           id='player'
           type='text/html'
-          width='640'
-          height='390'
           src={`http://www.youtube.com/embed/${video.id}`}
         ></iframe>
-        <h4>{title}</h4>
+        <h4 className={styles.title}>{title}</h4>
         <ChannelInfo name={channelTitle} id={channelId} />
-        <pre>{description}</pre>
+        <pre className={styles.description}>{description}</pre>
       </article>
-      <article>
+      <article className={styles.channelContainer}>
         <ChannelVideos id={channelId} />
       </article>
     </section>
