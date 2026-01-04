@@ -19,6 +19,34 @@ export default class Youtube {
   }
 
   async getChannelVideos(channelId) {
+    const channelVideos = await this.#getChannelVideosRes(channelId);
+    const videoIds = channelVideos
+      .map((item) => item.contentDetails.videoId)
+      .join(',');
+
+    const channelVideoRes = await this.apiClient.statistics({
+      params: {
+        part: 'statistics',
+        id: videoIds,
+      },
+    });
+    const channelVideoItems = channelVideoRes.data.items;
+
+    const channelVideoMap = new Map(
+      channelVideoItems.map((item) => [item.id, item.statistics])
+    );
+
+    return channelVideos.map((item) => ({
+      ...item,
+      statistics: channelVideoMap.get(item.contentDetails.videoId) ?? {
+        viewCount: '0',
+        favoriteCount: '0',
+        commentCount: '0',
+      },
+    }));
+  }
+
+  async #getChannelVideosRes(channelId) {
     const playlistId = await this.apiClient
       .channel({
         params: { part: 'contentDetails', id: channelId },
@@ -39,8 +67,10 @@ export default class Youtube {
 
     // 2. get statistics Data
     const statsRes = await this.apiClient.statistics({
-      part: 'statistics',
-      id: videoIds,
+      params: {
+        part: 'statistics',
+        id: videoIds,
+      },
     });
     const statsItems = statsRes.data.items;
 

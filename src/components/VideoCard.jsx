@@ -1,6 +1,7 @@
 import React from 'react';
 import { useNavigate } from 'react-router';
 import dateFormatter from '../util/dateFormatter';
+import viewCountformatter from '../util/viewCountFormatter';
 
 export default function VideoCard({ video }) {
   const { thumbnails, title, channelTitle, publishedAt } = video.snippet;
@@ -15,7 +16,10 @@ export default function VideoCard({ video }) {
       <img src={thumbnails.medium.url} alt={title} />
       <h4>{title}</h4>
       <p>{channelTitle}</p>
-      <p>{dateFormatter(publishedAt)}</p>
+      <div>
+        <p>{viewCountformatter.format(video.statistics.viewCount)}</p>
+        <p>{dateFormatter(publishedAt)}</p>
+      </div>
     </section>
   );
 }
