@@ -1,9 +1,11 @@
 .header {
   width: 100%;
   display: flex;
+  padding: 1rem;
+  margin-bottom: 2rem;
   justify-content: space-between;
   align-items: center;
-  padding: 1rem;
+  border-bottom: 2px solid var(--color-accent);
 }
 
 .logoBox {

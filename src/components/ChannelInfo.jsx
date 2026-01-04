@@ -1,21 +1,10 @@
 import React from 'react';
-import { useQuery } from '@tanstack/react-query';
-import { useYoutubeApi } from '../context/YoutubeContext';
 import viewCountFormatter from '../util/viewCountFormatter';
+import useChannelInfo from '../hooks/use-channelInfo';
+import ChannelAvatar from './ui/ChannelAvatar';
 
 export default function ChannelInfo({ name, id }) {
-  const { youtube } = useYoutubeApi();
-
-  const {
-    isLoading,
-    error,
-    data: channel,
-  } = useQuery({
-    queryKey: ['channel', id],
-    queryFn: async () => {
-      return youtube.getChannelInfo(id);
-    },
-  });
+  const { isLoading, error, data: channel } = useChannelInfo(id);
 
   return (
     <div>
@@ -23,7 +12,10 @@ export default function ChannelInfo({ name, id }) {
       {error && <p>Something is wrong...🥺</p>}
       {channel && (
         <>
-          <img src={channel.snippet.thumbnails.default.url} alt={name} />
+          <ChannelAvatar
+            url={channel.snippet.thumbnails.default.url}
+            name={name}
+          />
           <div>
             <p>{name}</p>
             <p>

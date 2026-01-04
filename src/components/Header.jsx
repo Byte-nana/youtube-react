@@ -1,4 +1,4 @@
-import React, { useEffect, useState } from 'react';
+import React, { useEffect, useRef, useState } from 'react';
 import NanaTubeIcon from '../icons/NanaTubeIcon';
 import { LuSearch } from 'react-icons/lu';
 import { Link, useNavigate, useParams } from 'react-router';
@@ -8,10 +8,12 @@ export default function Header() {
   const [text, setText] = useState('');
   const { keyword } = useParams();
   const navigate = useNavigate();
+  const inputRef = useRef(null);
 
   const handleSubmit = (e) => {
     e.preventDefault();
     navigate(`/videos/${text}`);
+    inputRef.current.blur();
   };
 
   useEffect(() => {
@@ -27,6 +29,7 @@ export default function Header() {
       <form className={styles.searchForm} onSubmit={handleSubmit}>
         <input
           className={styles.formText}
+          ref={inputRef}
           type='text'
           value={text}
           placeholder='Search...'

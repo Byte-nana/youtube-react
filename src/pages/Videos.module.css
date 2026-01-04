@@ -1,0 +1,7 @@
+.main {
+  display: grid;
+  padding-inline: 1rem;
+  grid-template-columns: 1fr 1fr 1fr;
+  column-gap: 0.7rem;
+  row-gap: 0.7rem;
+}
