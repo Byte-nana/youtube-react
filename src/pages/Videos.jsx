@@ -20,7 +20,7 @@ export default function Videos() {
   });
 
   return (
-    <main>
+    <main className='grid grid-cols-3 px-4 gap-3'>
       {isLoading && <p>Loading...</p>}
       {error && <p>Something is wrong...🥺</p>}
       {videos &&
