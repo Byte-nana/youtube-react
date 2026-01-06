@@ -17,7 +17,7 @@ export default function VideoDetail() {
           className='w-full aspect-video rounded-4xl'
           id='player'
           type='text/html'
-          src={`http://www.youtube.com/embed/${video.id}`}
+          src={`https://www.youtube.com/embed/${video.id}`}
         ></iframe>
         <h4 className='text-2xl mt-4'>{title}</h4>
         <ChannelInfo name={channelTitle} id={channelId} />
