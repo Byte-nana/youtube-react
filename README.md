@@ -20,7 +20,20 @@ This project focuses on **data-driven UI**, **API integration**, **routing**, an
 
 ## 🎮 Live Demo
 
-🔗 _(Add deployment link here if available)_
+🔗 [**Try the App on Netlify**](https://nanatube.netlify.app/)
+
+---
+
+## 🎞️ Preview GIF Template
+
+<div>
+    <a href="https://www.loom.com/share/caa72ba60f694ecbaa65871e557fe87b">
+      <p>NanaTube</p>
+    </a>
+    <a href="https://www.loom.com/share/caa72ba60f694ecbaa65871e557fe87b">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/caa72ba60f694ecbaa65871e557fe87b-eec00b55c97c7984-full-play.gif#t=0.1">
+    </a>
+  </div>
 
 ---
 
@@ -192,12 +205,6 @@ Aspiring front-end developer focused on building **scalable, data-driven React a
 
 ---
 
-## 🧾 Licence
-
-This project is for **learning and educational purposes**.
-
----
-
 <div align="center">
-  <sub>Built with curiosity, debugging, and many re-renders • 2025</sub>
+  <sub>Built with curiosity, debugging, and many re-renders • 2026</sub>
 </div>
