@@ -1,9 +1,0 @@
-/* channel */
-.channel.cardContainer {
-  display: flex;
-}
-
-.channel.thumbnails {
-  width: 45%;
-  margin-right: 0.5rem;
-}

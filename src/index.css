@@ -8,13 +8,13 @@
 }
 
 #root {
-  @apply w-full;
+  @apply w-full max-w-screen-2xl;
 }
 
 body {
   min-height: 100vh;
-  @apply bg-bg;
-  @apply text-text;
+  @apply bg-bg text-text;
+  @apply flex flex-col items-center;
 }
 
 @layer base {
