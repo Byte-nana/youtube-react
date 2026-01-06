@@ -23,7 +23,7 @@ export default function ChannelVideos({ id }) {
       {error && <p>Something is wrong...🥺</p>}
       {playlist &&
         playlist.map((list) => (
-          <VideoCard key={list.id} video={list} variant='channel' />
+          <VideoCard key={list.id} video={list} variant='smCard' />
         ))}
     </div>
   );
