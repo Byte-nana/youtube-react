@@ -38,6 +38,7 @@ export default class Youtube {
 
     return channelVideos.map((item) => ({
       ...item,
+      id: item.contentDetails.videoId,
       statistics: channelVideoMap.get(item.contentDetails.videoId) ?? {
         viewCount: '0',
         favoriteCount: '0',

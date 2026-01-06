@@ -5,8 +5,8 @@ import YoutubeClient from '../api/youtubeClient';
 
 export const YoutubeContext = createContext();
 
-// const client = new YoutubeClient();
-const client = new FakeYoutubeClient();
+const client = new YoutubeClient();
+// const client = new FakeYoutubeClient();
 const youtube = new Youtube(client);
 
 export function YoutubeProvider({ children }) {
